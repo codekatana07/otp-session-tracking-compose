@@ -97,4 +97,34 @@ GPT was used during development for:
 - ViewModel state management
 - OTP validation rules  
 
+---
+# ⚙️ Setup Instructions
+1. Clone the repository
+git clone https://github.com/codekatana07/otp-session-tracking-compose.git
+
+2. Open in Android Studio
+- Open Android Studio
+- Click Open Project
+- Select the cloned folder
+
+3. Sync Gradle
+- Android Studio will automatically sync dependencies.
+
+4. Run the App
+- Connect an emulator or physical device
+- Click ▶ Run
+
+✅ Build Requirements
+
+Android Studio Hedgehog / Iguana or latest
+
+Minimum SDK: 24+
+
+Kotlin version: Latest stable
+
+<img src="https://github.com/user-attachments/assets/a4295277-fc65-46e2-a596-2e8e9973d3ba" width="250"/>
+<img src="https://github.com/user-attachments/assets/c428814b-6737-4b3b-9888-790ac1d25b32" width="250"/>
+<img src="https://github.com/user-attachments/assets/a808eb38-416c-4690-b5bb-af4635c4cd54" width="250" />
+<img src="https://github.com/user-attachments/assets/82623bab-7b3f-4a2c-98b8-2d9eb35b1d45" width="250"/>
+
 
